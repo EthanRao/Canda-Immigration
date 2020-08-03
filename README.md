@@ -1,1 +1,18 @@
-# Canda-Immigration
+# 加拿大移民（EE & PNP）
+
+## Introduction
+
+介绍加拿大的主流移民方式，主要就是EE和PNP这两种，受众范围比较广其他的例如飞行员的项目不是很了解。
+
+## EE
+
+## PNP
+
+## 总结
+
+## 其他知识
+
+### 常见名词解析
+
+### Super Visa
+
