@@ -37,6 +37,6 @@
 
 加拿大边境服务局，有些人因为觉得网上申请移民，等待时间过长，有些人会等到3个月多，所以就会直接跑来边境去搬运移民，但是这有时也需要碰运气，有些人当场拿到，有些人跑了好几次才提交完成。
 
-## IME Immigration Medical Examination - 移民体检
+## IME Immigration Medical Examination
 
 所有申请人都需要进行移民体检
