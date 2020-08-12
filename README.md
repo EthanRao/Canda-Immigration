@@ -12,7 +12,8 @@
 
 ## 其他知识
 
-### 常见名词解析
+  ### [常用名词解析](URL 'https://github.com/EthanRao/Canda-Immigration/tree/master/%E5%B8%B8%E8%A7%81%E5%90%8D%E8%AF%8D')
 
-### Super Visa
+  ### 家属签证
 
+  [简介Super Visa](URL 'https://github.com/EthanRao/Canda-Immigration/tree/master/Super%20Visa')
