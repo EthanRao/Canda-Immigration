@@ -37,11 +37,23 @@
 
 加拿大边境服务局，有些人因为觉得网上申请移民，等待时间过长，有些人会等到3个月多，所以就会直接跑来边境去搬运移民，但是这有时也需要碰运气，有些人当场拿到，有些人跑了好几次才提交完成。
 
-## IME Immigration Medical Examination
+## IME 
 
-所有申请人都需要进行移民体检
+Immigration Medical Examination 移民体检
+
+所有申请人都需要进行移民体检，申请时需要持有IME Number，指定医院均可以提供。
+
+具体支持检测的机构移民局给出了官方的列表，点击选择所在的国家即可。 [官方名单](https://secure.cic.gc.ca/pp-md/pp-list.aspx)
+
+> https://secure.cic.gc.ca/pp-md/pp-list.aspx
 
 ## LMIA
+
+Labour Market Impact Assessment 确认信
+
++ 持LMIA能直接申请工签。
+
++ LMIA能在EE评分中拿到50或200分的加分。
 
 ## IRCC
 
