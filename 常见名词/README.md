@@ -57,13 +57,23 @@ Labour Market Impact Assessment 确认信
 
 ## IRCC
 
+Immigration, Refugees and Citizenship Canada 加拿大移民、难民及公民部
+
 ## OINP
+
+Ontario Immigrant Nominee Program 安省的省提名（PNP）项目
 
 ## BOWP
 
+Bridging Open Work Permit 桥梁工作签证
+
 ## ITA
 
+申请邀请
+
 ## PEQ
+
+魁北克经验移民
 
 ## CSQ
 
