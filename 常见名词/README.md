@@ -5,7 +5,7 @@
 
 ## PR Permanent Residence
 
-枫叶卡，也叫做永久居留证，拥有枫叶卡不等于成为citizenship，但同时也拥有公民的福利，想维持PR卡的有效性，5年内要待满3年以上。
+枫叶卡，也叫做永久居留证，拥有枫叶卡不等于成为citizen，但同时也拥有公民的福利，想维持PR卡的有效性，5年内要待满3年以上。
 
 ## CIC Citizenship and Immigration Canada
 
@@ -73,10 +73,30 @@ Bridging Open Work Permit 桥梁工作签证
 
 ## PEQ
 
-魁北克经验移民
+Programme de l'expérience québécoise
+魁北克移民：经验移民
+魁省政府认可的学校完成学习 1800h 的全职学习达到法语 b2 的水平，无需工作经验就可以申请移民
+
+## CAQ
+
+Certificate of Acceptance of Quebec
+进入魁北克省的许可（学签）
 
 ## CSQ
 
+Certificat de sélection du Québec
+魁北克移民甄选证书
+
+## MIDI
+
+Ministère de l'immigration, diversité et inclusion
+魁北克省移民主管部门
+
 ## Tech Draw
 
+直译：技术抽签
+
 ## Landing Paper
+
+登陆信 又称登陆纸
+第一次登陆时候证明获移民身份，入境时由移民官签字盖章后成为Landing Paper
