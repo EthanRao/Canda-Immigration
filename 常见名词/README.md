@@ -75,6 +75,7 @@ Bridging Open Work Permit 桥梁工作签证
 
 Programme de l'expérience québécoise
 魁北克移民：经验移民
+
 魁省政府认可的学校完成学习 1800h 的全职学习达到法语 b2 的水平，无需工作经验就可以申请移民
 
 ## CAQ
@@ -99,4 +100,5 @@ Ministère de l'immigration, diversité et inclusion
 ## Landing Paper
 
 登陆信 又称登陆纸
+
 第一次登陆时候证明获移民身份，入境时由移民官签字盖章后成为Landing Paper
