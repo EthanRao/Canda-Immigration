@@ -2,7 +2,7 @@
 
 ## 简介
 
-牢记官网 [canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada.html)
+> 牢记官网 [canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada.html)
 
 介绍加拿大的主流移民方式，主要就是EE和PNP这两种，受众范围比较广其他的例如飞行员的项目不是很了解。
 
