@@ -77,5 +77,10 @@ BCPNP 在线申请系统需要申请者交付700加币申请费。申请一旦�
 
 申请人收到BCPNP 的提名确认函后，需要向制定的IRCC 签证办公室提交完整的永久居住申请，提交申请的截止时间不能超过提名函中所标注的有效期。
 
+## 官网材料
 
+> [BC-PNP DOCUMENTS](https://www.welcomebc.ca/Immigrate-to-B-C/B-C-Provincial-Nominee-Program/Documents)
 
+> [INTERNATIONAL POST-GRADUATE](https://www.welcomebc.ca/Immigrate-to-B-C/BC-PNP-Skills-Immigration/International-Post-Graduate)
+
+> [认可的学校和专业](https://www.welcomebc.ca/getmedia/8f55cca6-5e8c-4e3c-8456-f65d2a5a2221/BC-PNP-IPG-EEBC-IPG-Eligible-Programs-of-Study.pdf.aspx)
